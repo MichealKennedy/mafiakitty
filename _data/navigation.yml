@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Stuff"
-    url: /
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+    url: /about/
+  - title: "Boat"
+    url: /boat"
+  - title: "Posts"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Contact"
+    url: /contact/
+  - title: "Videos"
+    url: https://www.youtube.com/mafiakitty
