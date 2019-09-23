@@ -16,6 +16,7 @@
 title: "Mafiakitty"
 subtitle: "Version 2.0"
 url: htts://mafiakitty.com
+logo: "/assets/images/site-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
