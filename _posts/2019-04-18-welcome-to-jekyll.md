@@ -1,6 +1,5 @@
 ---
 title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
 categories:
   - Episode
 tags:
@@ -8,9 +7,9 @@ tags:
   - update
 sidebar:
   - title: "Title"
-   image: http://placehold.it/350x250
-   image_alt: "image"
-   text: "Some text here."
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
   - title: "Another Title"
     text: "More text here."
 
