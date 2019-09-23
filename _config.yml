@@ -113,3 +113,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+comments:
+  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname: mafiakitty # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
