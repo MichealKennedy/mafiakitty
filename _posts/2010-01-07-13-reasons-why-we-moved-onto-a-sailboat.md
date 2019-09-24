@@ -1,5 +1,6 @@
 ---
 title: "Post: Standard"
+permalink: /why
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
