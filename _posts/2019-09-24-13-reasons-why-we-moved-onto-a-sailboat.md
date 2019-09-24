@@ -9,7 +9,6 @@ tags:
   - readability
   - standard
 comments: true
-toc: false
 sidebar-right:
   - title: "Get a sticker!"
     image: http://placehold.it/350x250
