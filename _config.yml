@@ -14,10 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Mafiakitty"
-subtitle: "The Adventures of Mafiakitty"
+# subtitle: "The Adventures of Mafiakitty"
+masthead_title: "Mafiakitty"
 url: https://mafiakitty.com
 logo: "/assets/images/site-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-email:
+email: mikennedy@gmail.com
 description: "The Adventures of Mafiakitty."
 twitter_username: themafiakitty
 github_username: michealkennedy
