@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "13 Reasons Why We Moved Onto A Sailboat"
 permalink: /why
 excerpt_separator: "<!--more-->"
 categories:
