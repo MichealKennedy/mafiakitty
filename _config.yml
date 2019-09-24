@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Mike & Michelle"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A little about us will go here when I get the time to fill shit out."
+  bio    : "A little about us will go here when I get the time to fill stuff."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -75,19 +75,19 @@ author:
       url: "https://github.com/michealkennedy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/Mafiakitty"
+      url: "https://instagram.com/mafiakitty"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/themafiakitty"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/michealkennedy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/mafiakitty"
 
 defaults:
   # _posts
