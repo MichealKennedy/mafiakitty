@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Mafiakitty"
 subtitle: "The Adventures of Mafiakitty"
-url: htts://mafiakitty.com
+url: https://mafiakitty.com
 logo: "/assets/images/site-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 email:
 description: "The Adventures of Mafiakitty."
