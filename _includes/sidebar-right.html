@@ -1,0 +1,19 @@
+{% unless page.toc %}
+  <aside class="sidebar__right">
+  {% if page.sidebar-right %}
+    {% for sr in page.sidebar-right %}
+      {% if sr.image %}
+        <img src=
+        {% if sr.image contains "://" %}
+          "{{ sr.image }}"
+        {% else %}
+          "{{ sr.image | relative_url }}"
+        {% endif %}
+        alt="{% if sr.image_alt %}{{ sr.image_alt }}{% endif %}">
+      {% endif %}
+      {% if sr.title %}<h3>{{ sr.title }}</h3>{% endif %}
+      {% if sr.text %}{{ sr.text | markdownify }}{% endif %}
+    {% endfor %}
+  {% endif %}
+  </aside>
+{% endunless %}
