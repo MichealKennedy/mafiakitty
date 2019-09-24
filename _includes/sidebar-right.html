@@ -1,4 +1,4 @@
-
+{% if page.toc == 'false' %}
   <aside class="sidebar__right">
   {% if page.sidebar-right %}
     {% for sr in page.sidebar-right %}
@@ -16,3 +16,4 @@
     {% endfor %}
   {% endif %}
   </aside>
+{% endif %}
