@@ -1,0 +1,58 @@
+# Site
+name: "Mafiakitty"
+title: "Mafiakitty Sailing"
+description: "Mafiakitty Adventures"
+meta_description: "Mafiakitty is sailing, living off grid, and elimating bills."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: '/'
+email: 'mikennedy@gmail.com'
+google_analytics: 'UA-85169909-1'
+disqus: 'mafiakitty'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Authors
+authors:
+  mike:
+    name: Mike
+    display_name: Mike
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: 
+    web: https://www.mafiakitty.com
+    twitter: https://twitter.com/themafiakitty
+    description: "I'll put info about me here later."
+  michelle:
+    name: Michelle
+    display_name: Michelle
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: 
+    web: https://www.mafiakitty.com
+    twitter: https://twitter.com/themafiakitty
+    description: "I'll put info about me here later."
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+        
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+    
+permalink: /:slug:output_ext
+
+# Other
+markdown: kramdown
+highlighter: rouge
