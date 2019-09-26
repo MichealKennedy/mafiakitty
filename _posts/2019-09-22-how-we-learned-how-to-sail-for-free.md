@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
+layout: post-right-sidebar
+title:  "How We Learned How To Sail For Free"
+permalink: /learn-to-sail
+author: mike
+categories: [ Episode, tutorial ]
 image: assets/images/4.jpg
-featured: true
 ---
 There are lots of powerful things you can do with the Markdown editor
 
