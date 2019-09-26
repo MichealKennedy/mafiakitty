@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "13 Reasons Why We Moved Onto A Sailboat"
 author: mike
 permalink: /why
