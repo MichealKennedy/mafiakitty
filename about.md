@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-comments: false
+comments: true
 ---
 
 ## Mike & Michelle
-Info about us here.
+Boy and girl.
 
 ## Our Sailboat
-Info about our sailboat here.
+1962 Spencer 35.
 
 ## Our Mission
 To eliminate every bill, frugally sail around the world.
