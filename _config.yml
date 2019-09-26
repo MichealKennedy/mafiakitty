@@ -10,7 +10,7 @@ baseurl: '/'
 email: 'mikennedy@gmail.com'
 google_analytics: 'UA-85169909-1'
 disqus: 'mafiakitty'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+sharethis:
 
 # Authors
 authors:
@@ -51,7 +51,7 @@ jekyll-archives:
     tag: '/tag/:name/'
     category: '/category/:name/'
 
-permalink: /:slug:output_ext
+permalink: /:slug
 
 # Other
 markdown: kramdown
