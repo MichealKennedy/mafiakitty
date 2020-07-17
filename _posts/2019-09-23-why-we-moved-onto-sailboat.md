@@ -6,7 +6,6 @@ permalink: /why
 categories: [ Episode, tutorial ]
 image: assets/images/2.jpg
 ---
-<iframe width="853" height="480" src="https://www.youtube.com/embed/8vaHNc_hZWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Cat ipsum dolor sit amet, do not try to mix old food with new one to fool me! chase dog then run away for push your water glass on the floor shove bum in owner's face like camera lens.
 
